@@ -1,0 +1,49 @@
+
+
+#navLinks { 
+    justify-content: flex-end;
+}
+
+#home, #about, #Cv, #Contact , #register, #Courses{
+    margin: 2em 1em 0 1em;
+    font-size: large; 
+}
+
+#brand_name {
+    font-size: 1.75em;
+    font-weight: 500;
+    padding-top: 6vh;
+}
+
+#bavbar-button {
+    align-items: flex-end;
+}
+.x{
+    border:50px;
+    padding-left: 60px;
+    padding-right:20px ;
+}
+a{
+color:rgb(70, 140, 197)}
+a:hover {
+    color: rgb(36, 205, 211);
+text-decoration: underline;
+text-decoration-color: rgb(38, 177, 187);
+-webkit-text-decoration-color:rgb(30, 146, 150);
+}
+
+.maestro{
+            
+    border:50px;
+    padding-left: 60px;
+text-size-adjust: 30px;
+
+
+
+}
+.cente{
+align-content: center;
+padding-right: 25px;
+
+
+}
